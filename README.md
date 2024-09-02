@@ -1,5 +1,5 @@
-Code floder : training and predict code 
+code floder : training and predict code 
 
-Dataset floder : training phase use dataset in the challenge
+dataset floder : training phase use dataset in the challenge
 
-weight : the best model in the challenge
+weight floder : the best model in the challenge
